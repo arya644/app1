@@ -17,3 +17,4 @@ if name:
 data = [10, 20, 30, 40]
 plt.plot(data)
 st.pyplot(plt)
+
