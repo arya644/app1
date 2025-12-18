@@ -19,3 +19,10 @@ This is a simple web application built using **Streamlit** and **Python**.
 ---
 
 ## 📂 Project Structure
+
+## 📊 Output Chart
+![Chart](chart.png)
+
+
+
+
